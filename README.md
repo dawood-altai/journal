@@ -1,0 +1,2 @@
+# journal
+Lokum-assignment
